@@ -1,0 +1,38 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# PhpStorm files
+.idea/
+
+# MacOS files
+.DS_Store
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env*
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+App0*
+App1.1*
+App2.js
+App3*
+App4*
+App.test.js
+
+country-code.json
+db.json
+weather.json
+
